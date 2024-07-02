@@ -27,8 +27,4 @@
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/aryan-04?theme=unicorn&font=&extension=null)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arxan7&show_icons=true&locale=en&layout=compact" alt="arxan7" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arxan7&show_icons=true&locale=en" alt="arxan7" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arxan7&" alt="arxan7" /></p>
