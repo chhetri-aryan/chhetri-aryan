@@ -23,7 +23,8 @@
 ![](https://github-contributor-stats.vercel.app/api?username=chhetri-aryan&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### Leetcode Stats
-![LeetCode Stats](https://leetcode.card.workers.dev/aryan-04?theme=nord&font=source_code_pro&extension=null)
+![LeetCode Stats](
+https://leetcard.jacoblin.cool/aryan-04?theme=nord&font=Poppins)
 
 
 
